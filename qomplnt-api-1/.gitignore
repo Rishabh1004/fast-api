@@ -1,0 +1,15 @@
+# Ignore virtual environment folders
+qompln/
+
+
+# Ignore cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+
+# # Ignore specific files
+# config.ini
+
+# Ignore the database file 
+ouomplnt.db
